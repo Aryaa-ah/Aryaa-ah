@@ -181,38 +181,46 @@ const aryaa = {
   </a>
 </div>
 
-## 📊 Contribution Graph
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aryaa-ah&theme=tokyo-night&hide_border=true&custom_title=Aryaa's%20Contribution%20Graph&area=true" alt="Contribution Graph" />
-</div>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aryaa-ah&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15" alt="Trophies" />
-</div>
-
-## 💭 Dev Quote
+## 💡 Random Dev Quote
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
 </div>
 
-## 🐍 Contribution Snake
+<br>
+
+## 🤝 Let's Connect!
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <p>
+    <img src="https://img.shields.io/badge/Open%20to%20Collaborate-on%20exciting%20projects-FF6B6B?style=for-the-badge&labelColor=4ECDC4" alt="Open to Collaborate" />
+  </p>
+  
+  <p>
+    <b>I'm always excited to connect with fellow developers and work on innovative projects!</b>
+  </p>
+  
+  <a href="https://www.linkedin.com/in/aryaa-hanamar/">
+    <img src="https://img.shields.io/badge/Let's%20connect%20on-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Drop%20me%20an-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer" alt="footer" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryaa-ah&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 </div>
 
+<br>
+
 <div align="center">
-  <b>Thanks for visiting! Let's connect and build something amazing together! 🚀</b>
+  <img src="https://komarev.com/ghpvc/?username=Aryaa-ah&style=flat-square&color=58A6FF" alt="Profile views" />
   <br><br>
-  <img src="https://komarev.com/ghpvc/?username=Aryaa-ah&style=for-the-badge&color=58A6FF" alt="Profile views" />
+  <img src="https://img.shields.io/badge/Made%20with-❤️%20and%20☕-FF6B6B?style=for-the-badge&labelColor=4ECDC4" alt="Made with love and coffee" />
 </div>
