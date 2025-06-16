@@ -1,29 +1,47 @@
-# Aryaa Hanamar
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Aryaa%20Hanamar&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient" alt="header" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6AD3F5&center=true&vCenter=true&repeat=false&width=700&lines=Full+Stack+Developer" alt="Typing SVG" />
+</div>
+
+<br>
 
 <div align="center">
   <a href="https://aryaa-hanamar.me/">
-    <img src="https://img.shields.io/badge/Portfolio-aryaa--hanamar.me-000000?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/🌐_Portfolio-aryaa--hanamar.me-FF6B6B?style=for-the-badge&labelColor=4ECDC4&color=FF6B6B" alt="Portfolio" />
   </a>
-  &nbsp;
   <a href="https://www.linkedin.com/in/aryaa-hanamar/">
-    <img src="https://img.shields.io/badge/LinkedIn-Aryaa_Hanamar-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn" />
   </a>
-  &nbsp;
   <a href="https://github.com/Aryaa-ah">
-    <img src="https://img.shields.io/badge/GitHub-Aryaa--ah-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub" />
   </a>
 </div>
 
-## About Me
+<br>
 
-Senior Software Engineer based in **Boston, MA** with expertise in building scalable enterprise applications and distributed systems. Specialized in backend development with Java/Spring Boot ecosystem while maintaining full-stack capabilities.
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> About Me
 
-## Current Focus
+```javascript
+const aryaa = {
+    location: "Boston, MA 📍",
+    currentFocus: "Building scalable web & mobile applications",
+    passions: ["Clean Code", "UI/UX Design", "Problem Solving", "Mobile Development"],
+    motto: "Turning coffee into code, one commit at a time ☕",
+    funFact: "I debug with console.log and I'm proud of it! 🐛"
+};
+```
 
-- Building high-performance microservices and RESTful APIs
-- Implementing distributed systems with Spring Cloud
-- Working on cloud-native applications with containerization
-- Contributing to enterprise-level software architecture decisions
+## 🎯 What I'm Up To
+
+- 🚀 Building modern web and mobile applications with cutting-edge technologies
+- 📱 Creating cross-platform mobile apps with React Native
+- 🌱 Exploring cloud architecture and microservices
+- 💡 Contributing to open-source projects
+- 📚 Always learning something new
+- 🎨 Perfecting the art of pixel-perfect designs
 
 ## 💻 Tech Universe
 
@@ -33,6 +51,10 @@ Senior Software Engineer based in **Boston, MA** with expertise in building scal
 
 <table align="center">
   <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
+      <br>Java
+    </td>
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
       <br>JavaScript
@@ -175,41 +197,116 @@ Senior Software Engineer based in **Boston, MA** with expertise in building scal
 </div>
 </details>
 
-## 🎯 Featured Projects
+## 🌟 Notable Projects
 
-<div align="center">
-  <a href="https://aryaa-hanamar.me/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aryaa-ah&repo=portfolio&theme=tokyonight&hide_border=true&icon_color=F8D866" alt="Portfolio" />
-  </a>
-  <a href="https://github.com/Aryaa-ah/CourseraProject">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aryaa-ah&repo=CourseraProject&theme=tokyonight&hide_border=true&icon_color=F8D866" alt="CourseraProject" />
-  </a>
-</div>
-
-
-
-## 💡 Random Dev Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
-</div>
-
+<table>
+<tr>
+    <td width="50%">
+      <h3>☁️ Cloud Resource Optimization</h3>
+      <ul>
+        <li>Designed a cost-efficient cloud architecture that reduced operational costs by 25%</li>
+        <li>Implemented auto-scaling strategies to optimize resource allocation</li>
+        <li>Enhanced cloud security with IAM policies and logging</li>
+        <li><b>Technologies:</b> AWS, Google Cloud, Azure, Terraform, Kubernetes</li>
+      </ul>
+    </td>
+    <td width="50%">
+      <h3>🌌 Lighttrail: Aurora Prediction System</h3>
+      <ul>
+        <li>Developed a web application that predicts auroras and provides real-time alerts</li>
+        <li>Integrated a dynamic map to visualize aurora activity across the globe</li>
+        <li>Analyzed space weather data to improve prediction accuracy</li>
+        <li><b>Technologies:</b> JavaScript, React, Python, Supabase, OpenWeather API</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🏦 Tax Accelerator for Oracle-Vertex Integration</h3>
+      <ul>
+        <li>Streamlined customer onboarding process, reducing from multi-week to single-click implementation</li>
+        <li>Onboarded 5 new enterprise customers and improved reporting accuracy by 30%</li>
+        <li>Increased revenue by 40% and reduced customer complaints by 60%</li>
+        <li><b>Technologies:</b> Java, Spring Boot, React, Redux, Oracle, REST APIs</li>
+      </ul>
+    </td>
+    <td width="50%">
+      <h3>🧠 Social Network Mental Disorders Detection</h3>
+      <ul>
+        <li>Implemented ML algorithms (KNN, Naive Bayes, Random Forest) to detect 6 types of mental disorders</li>
+        <li>Research published in international journal</li>
+        <li>Improved early detection capabilities for potential interventions</li>
+        <li><b>Technologies:</b> Python, Machine Learning, Data Analysis</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>📈 Recession Prediction System</h3>
+      <ul>
+        <li>Employed SVM and Linear Regression to predict inflation rates</li>
+        <li>Visualized yield curves using Matplotlib with 86% accuracy</li>
+        <li>Research published in international journal</li>
+        <li><b>Technologies:</b> Python, Machine Learning, Matplotlib</li>
+      </ul>
+    </td>
+    <td width="50%">
+      <h3>🚦 Traffic Signal Synchronization</h3>
+      <ul>
+        <li>Built prototype hardware system using Arduino and IR Sensors</li>
+        <li>Developed companion Android app to show real-time signal status</li>
+        <li>Improved traffic flow efficiency in unplanned city areas</li>
+        <li><b>Technologies:</b> Arduino, Android, IR Sensors, Java</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 <br>
 
-## Connect
+## 📝 Publications
 
 <div align="center">
+  <table>
+    <tr>
+      <td>🔬</td>
+      <td><b>Recession Prediction using SVM and Linear Regression</b><br />International Journal for Research in Applied Science & Engineering Technology (2023)</td>
+    </tr>
+    <tr>
+      <td>🧠</td>
+      <td><b>Social Network Mental Disorders Detection</b><br />International Journal for Research in Applied Science & Engineering Technology (2023)</td>
+    </tr>
+    <tr>
+      <td>🚦</td>
+      <td><b>Traffic Signal Synchronization and Dynamic Control</b><br />International Journal for Research in Applied Science & Engineering Technology (2023)</td>
+    </tr>
+  </table>
+</div>
+
+
+## 🤝 Let's Connect!
+
+<div align="center">
+  <p>
+    <img src="https://img.shields.io/badge/Open%20to%20Collaborate-on%20exciting%20projects-FF6B6B?style=for-the-badge&labelColor=4ECDC4" alt="Open to Collaborate" />
+  </p>
+  
+  <p>
+    <b>I'm always excited to connect with fellow developers and work on innovative projects!</b>
+  </p>
+  
   <a href="https://www.linkedin.com/in/aryaa-hanamar/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/Let's%20connect%20on-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
   <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Drop%20me%20an-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Aryaa-ah&style=flat-square&color=blue" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Aryaa-ah&style=flat-square&color=58A6FF" alt="Profile views" />
+  <br><br>
+  <img src="https://img.shields.io/badge/Made%20with-❤️%20and%20☕-FF6B6B?style=for-the-badge&labelColor=4ECDC4" alt="Made with love and coffee" />
 </div>
