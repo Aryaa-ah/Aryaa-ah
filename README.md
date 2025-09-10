@@ -155,7 +155,7 @@ const aryaa = {
 </details>
 
 <details open>
-<summary><b>☁️ Cloud & DevOps</b></summary>
+<summary><b>☁️ AWS Cloud & DevOps</b></summary>
 <br>
 
 <div align="center">
