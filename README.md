@@ -91,8 +91,3 @@
 📩 [hanamar.a@northeastern.edu](mailto:hanamar.a@northeastern.edu)  
 💼 [LinkedIn](https://www.linkedin.com/in/aryaa-hanamar)  
 🌐 [Portfolio](https://aryaa-hanamar.me)  
-
----
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Aryaa-ah&style=flat-square&color=58A6FF" alt="Profile views" />
-</p>
